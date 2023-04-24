@@ -1,6 +1,7 @@
-theme: minima
-skin: dark
-  
-
-#name: ""
 title: Benjamin Zweig
+#name: ""
+
+theme: minima
+
+minima:
+  skin: dark
