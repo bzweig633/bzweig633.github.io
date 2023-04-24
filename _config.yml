@@ -1,6 +1,10 @@
 title: Benjamin Zweig
 #name: ""
 
+header pages:
+  -about.md
+  -portfolio.md
+
 remote_theme: jekyll/minima
 
 minima:
