@@ -1,7 +1,7 @@
 title: Benjamin Zweig
 #name: ""
 
-theme: minima
+remote_theme: jekyll/minima
 
 minima:
   skin: dark
