@@ -2,8 +2,7 @@ title: Benjamin Zweig
 #name: ""
 
 header_pages:
-  - about.md
-  - portfolio.md
+ - about.md
 
 remote_theme: jekyll/minima
 
