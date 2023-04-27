@@ -101,19 +101,19 @@ https://scholarworks.iu.edu/dspace/handle/2022/19201
 
 “An Unpublished Illuminated Manuscript of William of Auvergne’s De moribus (British Library MS. Yates Thompson 44) and its relationship to the Virtues and Vices Cycle at Notre-Dame, Paris.” (draft completed)
 
-Book Project
+### Book Project
 
 Representing Suicide in Medieval Art: the first dedicated study to the iconography and historically important moments of the representation of suicide in medieval visual culture, such as the shift in representation in Late Antiquity from the heroic to the condemnable, the Romanesque sculptures of the suicide of Judas, and the return of images of suicide from Antiquity in thirteenth-century manuscript illumination. 
 
-### Personal Digital Research Projects:
+### Personal Digital Projects:
 
-	In progress:
+#### In progress:
 
-“Mapping Medieval Gotland”: An open-access website mapping the 92 medieval churches and the Hanseatic city of Visby on the Swedish island of Gotland: https://bzweig633.github.io/Mapping-Medieval-Gotland/ 	
+“Mapping Medieval Gotland”: Mapping the 92 medieval churches and the Hanseatic city of Visby on the Swedish island of Gotland: https://bzweig633.github.io/Mapping-Medieval-Gotland/
 
 “A Visual Ethnography of the North: Olaus Magnus’ Carta Marina and The History of the Northern Peoples”: A dynamic markup of Olaus Magnus’ map of Scandinavia and the Baltic (1539) and the descriptions of selected locations on the map from his companion work The History of the Northern Peoples (1555).
 
-	One-Offs, Experiments, and Creative Coding:
+#### One-Offs, Experiments, and Creative Coding:
 
 Heatmap of 8.1K Romanesque buildings pulled from Wikidata SPARQL service: https://bzweig633.github.io/Romanesque-Heatmap/ 
 
@@ -219,10 +219,14 @@ Manuscript Reviewer, International Journal of Digital Art History
 
 Editor-at-large, Digital Humanities Now
 
-Professional Memberships:
+### Professional Memberships:
 
 College Art Association
+
 Digital Art History Society
+
 International Center of Medieval Art
+
 Medieval Academy of America
+
 Society for the Advancement of Scandinavian Study
