@@ -3,8 +3,6 @@ layout: page
 title: CV
 permalink: /cv/
 ---
-## CV
-
 ### Education:
 
 Ph.D., History of Art and Architecture, Boston University, 2014.
@@ -20,23 +18,23 @@ Areas of Specialization: Late Antique, Early Christian and Byzantine Art and Arc
 
 Digital Projects Coordinator, National Gallery of Art, Washington DC, August 2018 - Present:
 	
-Led collection tagging initiative to add descriptive tags for 100,000 artworks using machine vision technology.
-Guided museum adoption of CC0 for public domain images and data as part of revised open access policy and digital strategy.
-Led partnership with Wikimedia Foundation and contribution of open access materials to Wikimedia Commons and Wikidata that increased global reach of collection and generated seven million monthly views.
-Initiated the museum’s first Open Data Program and GitHub repository.
-Created and led interdepartmental Open Access/Open Data working group.
-Primary liaison on open access projects between several departments, including imaging services, digital experience, registrar’s office, gallery archives, and library.
+* Led collection tagging initiative to add descriptive tags for 100,000 artworks using machine vision technology.
+* Guided museum adoption of CC0 for public domain images and data as part of revised open access policy and digital strategy.
+* Led partnership with Wikimedia Foundation and contribution of open access materials to Wikimedia Commons and Wikidata that increased global reach of collection and generated seven million monthly views.
+* Initiated the museum’s first Open Data Program and GitHub repository.
+* Created and led interdepartmental Open Access/Open Data working group.
+* Primary liaison on open access projects between several departments, including imaging services, digital experience, registrar’s office, gallery archives, and library.
 
 ### Previous Professional Appointment:
 
 Robert H. Smith Postdoctoral Research Associate for Digital Art History, Center for Advanced Study in the Visual Arts (CASVA), National Gallery of Art, Washington DC, August 2014 – August 2018 
 
-Led development and release of open-access digital art history projects the “Early History of the Accademia di San Luca” (https://www.nga.gov/accademia/en/intro.html) and “History of Early American Landscape Design” (https://heald.nga.gov/mediawiki/index.php/Home) .
-Managed project teams and liaised with other stakeholders, including technical services, web team, and library.
-Documented project workflow and organized sustainable infrastructure.
-Oversaw first public instance of International Image Interoperability
+* Led development and release of open-access digital art history projects the “Early History of the Accademia di San Luca” (https://www.nga.gov/accademia/en/intro.html) and “History of Early American Landscape Design” (https://heald.nga.gov/mediawiki/index.php/Home) .
+* Managed project teams and liaised with other stakeholders, including technical services, web team, and library.
+* Documented project workflow and organized sustainable infrastructure.
+* Oversaw first public instance of International Image Interoperability
 Framework (IIIF) implementation.
-Assisted with scholarly GIS and data visualization projects, such as “Historical Journals as Digital Sources: Mapping Architecture in Germany, 1914-1924” (https://www.nga.gov/research/casva/Mapping_German_Architecture_1914_1924.html).
+* Assisted with scholarly GIS and data visualization projects, such as “Historical Journals as Digital Sources: Mapping Architecture in Germany, 1914-1924” (https://www.nga.gov/research/casva/Mapping_German_Architecture_1914_1924.html).
 
 ### Tech Skills:
 
@@ -95,7 +93,7 @@ https://scholarworks.iu.edu/dspace/handle/2022/19201
 
 “Picturing the Fallen King: Royal Patronage and the Image of Saul’s Suicide,” Patronage, Power, and Agency in Medieval Art, Occasional Papers XV from the Index of Christian Art, ed. Colum Hourihane (Princeton, 2013), 151-174.
 
-	Articles in Progress:
+#### Articles in Progress:
 
 “AI Art as Ekphrasis, and the Limits of the Generative Imagination,” experimental essay exploring the confluence between generative AI art and the ancient rhetorical art of ekphrasis using authored AI prompts, International Journal for Digital Art History, 2023. 
 
@@ -109,13 +107,13 @@ Representing Suicide in Medieval Art: the first dedicated study to the iconograp
 
 ### Personal Digital Research Projects:
 
-In progress:
+	In progress:
 
 “Mapping Medieval Gotland”: An open-access website mapping the 92 medieval churches and the Hanseatic city of Visby on the Swedish island of Gotland: https://bzweig633.github.io/Mapping-Medieval-Gotland/ 	
 
 “A Visual Ethnography of the North: Olaus Magnus’ Carta Marina and The History of the Northern Peoples”: A dynamic markup of Olaus Magnus’ map of Scandinavia and the Baltic (1539) and the descriptions of selected locations on the map from his companion work The History of the Northern Peoples (1555).
 
-One-Offs, Experiments, and Creative Coding:
+	One-Offs, Experiments, and Creative Coding:
 
 Heatmap of 8.1K Romanesque buildings pulled from Wikidata SPARQL service: https://bzweig633.github.io/Romanesque-Heatmap/ 
 
@@ -181,11 +179,11 @@ Representations of suicide in ancient and medieval art, Romanesque and Gothic ma
 ### Teaching and Education Experience:
 
 Visiting Assistant Professor, Pratt Institute, School of Information:
-“Advanced Projects in Visualization,” Fall 2023
+* “Advanced Projects in Visualization,” Fall 2023
 
 Adjunct Professor, SUNY Westchester:
-“Art of the Modern World,” Fall 2023
-“Art of the Ancient World,” Fall 2022
+* “Art of the Modern World,” Fall 2023
+* “Art of the Ancient World,” Fall 2022
 
 Guest Lecturer, Course on Wikidata for Cultural Heritage, Foundation for Advancement in Conservation, February 2021. 
 
