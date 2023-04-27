@@ -3,9 +3,9 @@ layout: page
 title: CV
 permalink: /cv/
 ---
-##CV
+## CV
 
-###Education:
+### Education:
 
 Ph.D., History of Art and Architecture, Boston University, 2014.
 Dissertation: “Depicting the Unforgivable Sin: Images of Suicide in Medieval Art.”
@@ -16,7 +16,7 @@ B.F.A., Painting/Printmaking and Art History, Massachusetts College of Art and D
 
 Areas of Specialization: Late Antique, Early Christian and Byzantine Art and Architecture, Romanesque and Gothic Sculpture and Manuscript Illumination, Northern Renaissance Painting and Sculpture, Digital Humanities.
 
-###Current Professional Appointment:
+### Current Professional Appointment:
 
 Digital Projects Coordinator, National Gallery of Art, Washington DC, August 2018 - Present:
 	
@@ -27,7 +27,7 @@ Initiated the museum’s first Open Data Program and GitHub repository.
 Created and led interdepartmental Open Access/Open Data working group.
 Primary liaison on open access projects between several departments, including imaging services, digital experience, registrar’s office, gallery archives, and library.
 
-###Previous Professional Appointment:
+### Previous Professional Appointment:
 
 Robert H. Smith Postdoctoral Research Associate for Digital Art History, Center for Advanced Study in the Visual Arts (CASVA), National Gallery of Art, Washington DC, August 2014 – August 2018 
 
@@ -38,13 +38,13 @@ Oversaw first public instance of International Image Interoperability
 Framework (IIIF) implementation.
 Assisted with scholarly GIS and data visualization projects, such as “Historical Journals as Digital Sources: Mapping Architecture in Germany, 1914-1924” (https://www.nga.gov/research/casva/Mapping_German_Architecture_1914_1924.html).
 
-###Tech Skills:
+### Tech Skills:
 
 Select Languages, Libraries, and Programs: HTML, XML, JSON, CSS, Leaflet.js, vanilla JavaScript, JQuery, D3.js, Python, SQL, SPARQL, Adobe Suite, ArcGIS, MediaWiki, Git.
 
 Select Frameworks and Standards: International Image Interoperability Framework (IIIF), Text Encoding Initiative (TEI), REST APIs, GLAM Metadata Data Models.
 
-#Honors and Awards:
+### Honors and Awards:
 
 Selected Participant, Coding Dürer, Ludwigs-Maximilian-University, Munich, 2017. 
 
@@ -70,7 +70,7 @@ Art History Prize, Massachusetts College of Art and Design, 2005.
 
 Goethe Institut Stipendium für Sprach Studieren, Goethe Institut, Berlin, 2005.
 
-###Publications:
+### Publications:
 
 “The Hanging of Judas in Chicago and the End of An Image,” Source:  Notes in the History of Art (Forthcoming 2023).
 
@@ -107,7 +107,7 @@ Book Project
 
 Representing Suicide in Medieval Art: the first dedicated study to the iconography and historically important moments of the representation of suicide in medieval visual culture, such as the shift in representation in Late Antiquity from the heroic to the condemnable, the Romanesque sculptures of the suicide of Judas, and the return of images of suicide from Antiquity in thirteenth-century manuscript illumination. 
 
-Personal Digital Research Projects:
+### Personal Digital Research Projects:
 
 In progress:
 
@@ -121,7 +121,7 @@ Heatmap of 8.1K Romanesque buildings pulled from Wikidata SPARQL service: https:
 
 What Does Collecting Look Like? Data visualization of the National Gallery of Art’s recent acquisitions: https://bzweig633.github.io/vikus-nga/
 
-###Talks, Conference Presentations, and Invited Lectures:
+### Talks, Conference Presentations, and Invited Lectures:
 
 Presentation to Wikidata and LD4 Community Group on National Gallery of Art’s Wikimedia project, April 2023.
 
@@ -174,11 +174,11 @@ Presentation to Wikidata and LD4 Community Group on National Gallery of Art’s 
 
 “Ab Ex Goes West and the Return of the Figure in California, 1945-1965”, Picasso to Pollock, Tufts University, April 2007.
 
-###Research Interests:
+### Research Interests:
 
 Representations of suicide in ancient and medieval art, Romanesque and Gothic manuscript illumination, French Romanesque and Gothic sculpture, methods and historiography of art history, the medieval Baltic as a distinct artistic and cultural region, medieval Scandinavian art and architecture (Viking to Reformation), medieval intellectual history, digital humanities, digital art history, quantitative and computational analysis for art history, open GLAM standards and methods, machine vision learning. 
 
-###Teaching and Education Experience:
+### Teaching and Education Experience:
 
 Visiting Assistant Professor, Pratt Institute, School of Information:
 “Advanced Projects in Visualization,” Fall 2023
@@ -201,11 +201,11 @@ Teaching Assistant, Art, Ritual, and Culture, Tufts University, September – De
 
 Education Intern and Museum Lecturer, Isabella Stewart Gardner Museum, Boston, May – August 2004.
 
-###Languages:
+### Languages:
 
 German, Swedish, French, Danish (read), Norwegian (read), Latin (read), Old English (read), Old Norse (limited reading), basic Latin paleography.
 
-###Professional Service:
+### Professional Service:
 	
 Representative, Executive Committee, International Image Interoperability Framework (IIIF), 2022 – present.
 
