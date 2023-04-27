@@ -76,17 +76,17 @@ Goethe Institut Stipendium für Sprach Studieren, Goethe Institut, Berlin, 2005.
 
 “Reassessing the Problem of Scandinavian Romanesque,” The Regional and Transregional in Romanesque Europe, Transactions of the British Archaeological Association, ed. John McNeill and Richard Plant (Taylor and Francis, 2021), 273-285.
 
-“Review: Lena Liepe, A Case for the Middle Ages: The Public Display of Medieval Church Art in Sweden 1847-1943.” The Medieval Review, November 2019. [Available here:](https://scholarworks.iu.edu/journals/index.php/tmr/article/view/28931)
+“Review: Lena Liepe, A Case for the Middle Ages: The Public Display of Medieval Church Art in Sweden 1847-1943.” The Medieval Review, November 2019. [Available here](https://scholarworks.iu.edu/journals/index.php/tmr/article/view/28931).
 
 "Measure, Number and Weight: Perfection in Medieval Art and Thought," Perfection: The Essence of Art and Architecture in Early Modern Europe, ed. Lorenzo Pericolo and Elisabeth Oy-Marra (Brepols, 2019), 33-53.
 
 "Saint Birgitta of Sweden: Movement, Place, and Visionary Experience," Moving Women Moving Objects (400-1500), ed.  Mariah Proctor-Tiffany and Tracy Chapman Hamilton (Brill, 2019), 137-159.
 
-"Forgotten Genealogies: Brief Reflections on the History of Digital Art History" International Journal of Digital Art History, Vol. 1, No. 1 (2015), 38-49. [Available here:](https://journals.ub.uni-heidelberg.de/index.php/dah/article/view/21633)
+"Forgotten Genealogies: Brief Reflections on the History of Digital Art History" International Journal of Digital Art History, Vol. 1, No. 1 (2015), 38-49. [Available here](https://journals.ub.uni-heidelberg.de/index.php/dah/article/view/21633).
 
-"A Research-Based Model for Digital Mapping and Art History: Notes from the Field," co-author with Paul B. Jaskot, Anne Kelly Knowles, Andrew Wasserman, and Stephen Whiteman, Artl@s Bulletin, Vol. 4, No. 1 (2015): Article 5. [Available here:](http://docs.lib.purdue.edu/artlas/vol4/iss1/5/)
+"A Research-Based Model for Digital Mapping and Art History: Notes from the Field," co-author with Paul B. Jaskot, Anne Kelly Knowles, Andrew Wasserman, and Stephen Whiteman, Artl@s Bulletin, Vol. 4, No. 1 (2015): Article 5. [Available here](http://docs.lib.purdue.edu/artlas/vol4/iss1/5/).
 
-“Review: Åsa Ringbom, The Voice of the Åland Churches: New Light on Medieval Art, Architecture and History.” The Medieval Review, December 2014. [Available here:](https://scholarworks.iu.edu/dspace/handle/2022/19201)
+“Review: Åsa Ringbom, The Voice of the Åland Churches: New Light on Medieval Art, Architecture and History.” The Medieval Review, December 2014. [Available here](https://scholarworks.iu.edu/dspace/handle/2022/19201).
 
 “Picturing the Fallen King: Royal Patronage and the Image of Saul’s Suicide,” Patronage, Power, and Agency in Medieval Art, Occasional Papers XV from the Index of Christian Art, ed. Colum Hourihane (Princeton, 2013), 151-174.
 
@@ -106,13 +106,13 @@ Representing Suicide in Medieval Art: the first dedicated study to the iconograp
 
 #### In progress:
 
-[“Mapping Medieval Gotland”](https://bzweig633.github.io/Mapping-Medieval-Gotland/): Mapping the 92 medieval churches and the Hanseatic city of Visby on the Swedish island of Gotland
+[“Mapping Medieval Gotland”](https://bzweig633.github.io/Mapping-Medieval-Gotland/): Mapping the 92 medieval churches and the Hanseatic city of Visby on the Swedish island of Gotland.
 
 “A Visual Ethnography of the North: Olaus Magnus’ Carta Marina and The History of the Northern Peoples”: A dynamic markup of Olaus Magnus’ map of Scandinavia and the Baltic (1539) and the descriptions of selected locations on the map from his companion work The History of the Northern Peoples (1555).
 
 #### One-Offs, Experiments, and Creative Coding:
 
-[Heatmap of 8.1K Romanesque buildings](https://bzweig633.github.io/Romanesque-Heatmap/) pulled from Wikidata SPARQL service. 
+[Heatmap of 8.1K Romanesque buildings](https://bzweig633.github.io/Romanesque-Heatmap/): A map showing the distribution of Romanesque architecture using data from Wikidata. 
 
 [What Does Collecting Look Like?](https://bzweig633.github.io/vikus-nga/): A data visualization of the National Gallery of Art’s recent acquisitions.
 
@@ -120,7 +120,7 @@ Representing Suicide in Medieval Art: the first dedicated study to the iconograp
 
 Presentation to Wikidata and LD4 Community Group on National Gallery of Art’s Wikimedia project, April 2023.
 
-“Everyone’s and Just Yours. Wikimedia, Audience, and Openness at the National Gallery of Art, Washington,” The Art Museum in the Digital Age, Belvedere Museum, Vienna, January 2022. [Recording available here](https://youtu.be/kCud9Urjv6U) 
+“Everyone’s and Just Yours. Wikimedia, Audience, and Openness at the National Gallery of Art, Washington,” The Art Museum in the Digital Age, Belvedere Museum, Vienna, January 2022. [Recording available here](https://youtu.be/kCud9Urjv6U).
 
 “Opening Up: Wikidata and the National Gallery of Art, Washington, “ ARLIS Annual Conference, Montreal, May 2021.
 
