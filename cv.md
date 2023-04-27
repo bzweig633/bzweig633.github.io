@@ -29,12 +29,12 @@ Digital Projects Coordinator, National Gallery of Art, Washington DC, August 201
 
 Robert H. Smith Postdoctoral Research Associate for Digital Art History, Center for Advanced Study in the Visual Arts (CASVA), National Gallery of Art, Washington DC, August 2014 – August 2018 
 
-* Led development and release of open-access digital art history projects the [“Early History of the Accademia di San Luca”(https://www.nga.gov/accademia/en/intro.html)] and [“History of Early American Landscape Design”(https://heald.nga.gov/mediawiki/index.php/Home)].
+* Led development and release of open-access digital art history projects the [“Early History of the Accademia di San Luca”](https://www.nga.gov/accademia/en/intro.html)] and [“History of Early American Landscape Design”](https://heald.nga.gov/mediawiki/index.php/Home).
 * Managed project teams and liaised with other stakeholders, including technical services, web team, and library.
 * Documented project workflow and organized sustainable infrastructure.
 * Oversaw first public instance of International Image Interoperability
 Framework (IIIF) implementation.
-* Assisted with scholarly GIS and data visualization projects, such as “Historical Journals as Digital Sources: Mapping Architecture in Germany, 1914-1924” [(https://www.nga.gov/research/casva/Mapping_German_Architecture_1914_1924.html)].
+* Assisted with scholarly GIS and data visualization projects, such as [“Historical Journals as Digital Sources: Mapping Architecture in Germany, 1914-1924”] (https://www.nga.gov/research/casva/Mapping_German_Architecture_1914_1924.html).
 
 ### Tech Skills:
 
@@ -76,7 +76,7 @@ Goethe Institut Stipendium für Sprach Studieren, Goethe Institut, Berlin, 2005.
 
 “Reassessing the Problem of Scandinavian Romanesque,” The Regional and Transregional in Romanesque Europe, Transactions of the British Archaeological Association, ed. John McNeill and Richard Plant (Taylor and Francis, 2021), 273-285.
 
-“Review: Lena Liepe, A Case for the Middle Ages: The Public Display of Medieval Church Art in Sweden 1847-1943.” The Medieval Review, November 2019. [(https://scholarworks.iu.edu/journals/index.php/tmr/article/view/28931)]
+“Review: Lena Liepe, A Case for the Middle Ages: The Public Display of Medieval Church Art in Sweden 1847-1943.” The Medieval Review, November 2019. [](https://scholarworks.iu.edu/journals/index.php/tmr/article/view/28931)
 
 "Measure, Number and Weight: Perfection in Medieval Art and Thought," Perfection: The Essence of Art and Architecture in Early Modern Europe, ed. Lorenzo Pericolo and Elisabeth Oy-Marra (Brepols, 2019), 33-53.
 
