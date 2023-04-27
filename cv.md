@@ -101,7 +101,7 @@ https://scholarworks.iu.edu/dspace/handle/2022/19201
 
 “An Unpublished Illuminated Manuscript of William of Auvergne’s De moribus (British Library MS. Yates Thompson 44) and its relationship to the Virtues and Vices Cycle at Notre-Dame, Paris.” (draft completed)
 
-### Book Project
+#### Book Project
 
 Representing Suicide in Medieval Art: the first dedicated study to the iconography and historically important moments of the representation of suicide in medieval visual culture, such as the shift in representation in Late Antiquity from the heroic to the condemnable, the Romanesque sculptures of the suicide of Judas, and the return of images of suicide from Antiquity in thirteenth-century manuscript illumination. 
 
