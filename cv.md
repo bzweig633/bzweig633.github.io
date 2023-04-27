@@ -29,7 +29,7 @@ Digital Projects Coordinator, National Gallery of Art, Washington DC, August 201
 
 Robert H. Smith Postdoctoral Research Associate for Digital Art History, Center for Advanced Study in the Visual Arts (CASVA), National Gallery of Art, Washington DC, August 2014 – August 2018 
 
-* Led development and release of open-access digital art history projects the “Early History of the Accademia di San Luca” [ (https://www.nga.gov/accademia/en/intro.html)] and “History of Early American Landscape Design” [(https://heald.nga.gov/mediawiki/index.php/Home)].
+* Led development and release of open-access digital art history projects the [“Early History of the Accademia di San Luca”(https://www.nga.gov/accademia/en/intro.html)] and [“History of Early American Landscape Design”(https://heald.nga.gov/mediawiki/index.php/Home)].
 * Managed project teams and liaised with other stakeholders, including technical services, web team, and library.
 * Documented project workflow and organized sustainable infrastructure.
 * Oversaw first public instance of International Image Interoperability
