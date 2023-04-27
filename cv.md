@@ -29,12 +29,12 @@ Digital Projects Coordinator, National Gallery of Art, Washington DC, August 201
 
 Robert H. Smith Postdoctoral Research Associate for Digital Art History, Center for Advanced Study in the Visual Arts (CASVA), National Gallery of Art, Washington DC, August 2014 – August 2018 
 
-* Led development and release of open-access digital art history projects the “Early History of the Accademia di San Luca” (https://www.nga.gov/accademia/en/intro.html) and “History of Early American Landscape Design” (https://heald.nga.gov/mediawiki/index.php/Home) .
+* Led development and release of open-access digital art history projects the “Early History of the Accademia di San Luca” [(https://www.nga.gov/accademia/en/intro.html)] and “History of Early American Landscape Design” [(https://heald.nga.gov/mediawiki/index.php/Home)].
 * Managed project teams and liaised with other stakeholders, including technical services, web team, and library.
 * Documented project workflow and organized sustainable infrastructure.
 * Oversaw first public instance of International Image Interoperability
 Framework (IIIF) implementation.
-* Assisted with scholarly GIS and data visualization projects, such as “Historical Journals as Digital Sources: Mapping Architecture in Germany, 1914-1924” (https://www.nga.gov/research/casva/Mapping_German_Architecture_1914_1924.html).
+* Assisted with scholarly GIS and data visualization projects, such as “Historical Journals as Digital Sources: Mapping Architecture in Germany, 1914-1924” [(https://www.nga.gov/research/casva/Mapping_German_Architecture_1914_1924.html)].
 
 ### Tech Skills:
 
@@ -76,20 +76,20 @@ Goethe Institut Stipendium für Sprach Studieren, Goethe Institut, Berlin, 2005.
 
 “Reassessing the Problem of Scandinavian Romanesque,” The Regional and Transregional in Romanesque Europe, Transactions of the British Archaeological Association, ed. John McNeill and Richard Plant (Taylor and Francis, 2021), 273-285.
 
-“Review: Lena Liepe, A Case for the Middle Ages: The Public Display of Medieval Church Art in Sweden 1847-1943.” The Medieval Review, November 2019. https://scholarworks.iu.edu/journals/index.php/tmr/article/view/28931
+“Review: Lena Liepe, A Case for the Middle Ages: The Public Display of Medieval Church Art in Sweden 1847-1943.” The Medieval Review, November 2019. [(https://scholarworks.iu.edu/journals/index.php/tmr/article/view/28931)]
 
 "Measure, Number and Weight: Perfection in Medieval Art and Thought," Perfection: The Essence of Art and Architecture in Early Modern Europe, ed. Lorenzo Pericolo and Elisabeth Oy-Marra (Brepols, 2019), 33-53.
 
 "Saint Birgitta of Sweden: Movement, Place, and Visionary Experience," Moving Women Moving Objects (400-1500), ed.  Mariah Proctor-Tiffany and Tracy Chapman Hamilton (Brill, 2019), 137-159.
 
 "Forgotten Genealogies: Brief Reflections on the History of Digital Art History" International Journal of Digital Art History, Vol. 1, No. 1 (2015), 38-49.
-https://journals.ub.uni-heidelberg.de/index.php/dah/article/view/21633
+[(https://journals.ub.uni-heidelberg.de/index.php/dah/article/view/21633)]
 
 "A Research-Based Model for Digital Mapping and Art History: Notes from the Field," co-author with Paul B. Jaskot, Anne Kelly Knowles, Andrew Wasserman, and Stephen Whiteman, Artl@s Bulletin, Vol. 4, No. 1 (2015): Article 5. 
-http://docs.lib.purdue.edu/artlas/vol4/iss1/5/
+[(http://docs.lib.purdue.edu/artlas/vol4/iss1/5/)]
 
 “Review: Åsa Ringbom, The Voice of the Åland Churches: New Light on Medieval Art, Architecture and History.” The Medieval Review, December 2014. 
-https://scholarworks.iu.edu/dspace/handle/2022/19201
+[(https://scholarworks.iu.edu/dspace/handle/2022/19201)]
 
 “Picturing the Fallen King: Royal Patronage and the Image of Saul’s Suicide,” Patronage, Power, and Agency in Medieval Art, Occasional Papers XV from the Index of Christian Art, ed. Colum Hourihane (Princeton, 2013), 151-174.
 
@@ -109,21 +109,21 @@ Representing Suicide in Medieval Art: the first dedicated study to the iconograp
 
 #### In progress:
 
-“Mapping Medieval Gotland”: Mapping the 92 medieval churches and the Hanseatic city of Visby on the Swedish island of Gotland: https://bzweig633.github.io/Mapping-Medieval-Gotland/
+“Mapping Medieval Gotland”: Mapping the 92 medieval churches and the Hanseatic city of Visby on the Swedish island of Gotland: [(https://bzweig633.github.io/Mapping-Medieval-Gotland/)]
 
 “A Visual Ethnography of the North: Olaus Magnus’ Carta Marina and The History of the Northern Peoples”: A dynamic markup of Olaus Magnus’ map of Scandinavia and the Baltic (1539) and the descriptions of selected locations on the map from his companion work The History of the Northern Peoples (1555).
 
 #### One-Offs, Experiments, and Creative Coding:
 
-Heatmap of 8.1K Romanesque buildings pulled from Wikidata SPARQL service: https://bzweig633.github.io/Romanesque-Heatmap/ 
+Heatmap of 8.1K Romanesque buildings pulled from Wikidata SPARQL service: [(https://bzweig633.github.io/Romanesque-Heatmap/)]
 
-What Does Collecting Look Like? Data visualization of the National Gallery of Art’s recent acquisitions: https://bzweig633.github.io/vikus-nga/
+What Does Collecting Look Like? Data visualization of the National Gallery of Art’s recent acquisitions: [(https://bzweig633.github.io/vikus-nga/)]
 
 ### Talks, Conference Presentations, and Invited Lectures:
 
 Presentation to Wikidata and LD4 Community Group on National Gallery of Art’s Wikimedia project, April 2023.
 
-“Everyone’s and Just Yours. Wikimedia, Audience, and Openness at the National Gallery of Art, Washington,” The Art Museum in the Digital Age, Belvedere Museum, Vienna, January 2022: https://youtu.be/kCud9Urjv6U 
+“Everyone’s and Just Yours. Wikimedia, Audience, and Openness at the National Gallery of Art, Washington,” The Art Museum in the Digital Age, Belvedere Museum, Vienna, January 2022: [(https://youtu.be/kCud9Urjv6U)] 
 
 “Opening Up: Wikidata and the National Gallery of Art, Washington, “ ARLIS Annual Conference, Montreal, May 2021.
 
