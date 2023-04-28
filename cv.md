@@ -86,7 +86,7 @@ Goethe Institut Stipendium für Sprach Studieren, Goethe Institut, Berlin, 2005.
 
 "A Research-Based Model for Digital Mapping and Art History: Notes from the Field," co-author with Paul B. Jaskot, Anne Kelly Knowles, Andrew Wasserman, and Stephen Whiteman, Artl@s Bulletin, Vol. 4, No. 1 (2015): Article 5. [Available here](http://docs.lib.purdue.edu/artlas/vol4/iss1/5/).
 
-“Review: Åsa Ringbom, The Voice of the Åland Churches: New Light on Medieval Art, Architecture and History.” The Medieval Review, December 2014. [Available here](https://scholarworks.iu.edu/dspace/handle/2022/19201).
+“Review: Åsa Ringbom, The Voice of the Åland Churches: New Light on Medieval Art, Architecture and History.” The Medieval Review, December 2014. [Available here](https://scholarworks.iu.edu/journals/index.php/tmr/article/view/18754/24867).
 
 “Picturing the Fallen King: Royal Patronage and the Image of Saul’s Suicide,” Patronage, Power, and Agency in Medieval Art, Occasional Papers XV from the Index of Christian Art, ed. Colum Hourihane (Princeton, 2013), 151-174.
 
