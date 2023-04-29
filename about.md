@@ -15,4 +15,4 @@ I approach most of my work in a fluid, agile, and interative manner - which real
 
 Other interesting tidbits: I had a Fulbright to Sweden and speak Swedish, taught myself to play guitar (a pandemic project), and Ursula K. LeGuin, Halldor Laxness, and Haruki Murakami are among my favorite authors.  
 
-And if you ever want to get in touch: benjamin.zweig@gmail.com
+And if you ever want to get in touch: [benjamin.zweig@gmail.com](benjamin.zweig@gmail.com)
