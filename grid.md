@@ -9,13 +9,13 @@ permalink: /grid/
 <style>
 .image-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  grid-gap: 10px;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 15px;
 }
 
 .image-grid img {
   width: 100%;
-  height: auto;
+  height: 100%;
 }
 </style>
   
