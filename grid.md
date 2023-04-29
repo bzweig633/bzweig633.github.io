@@ -20,7 +20,7 @@ permalink: /grid/
 </style>
   
 <div class="image-grid">
-  <img src="image1.jpg">
+  <img src="/imgs/Screenshot 2023-04-29 121824.png">
   <img src="image2.jpg">
   <img src="image3.jpg">
   <img src="image4.jpg">
