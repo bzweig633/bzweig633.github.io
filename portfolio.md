@@ -10,6 +10,5 @@ Here are some of my projects.
 
 | Image 1 | Image 2 |
 |---------|---------|
-| ![Alt text](/imgs/Screenshot_20221219_100138.png) | ![Alt text](/img/image2.jpg) |
-| ![Alt text](image3.jpg) | ![Alt text](image4.jpg) |
+| ![Alt text](/imgs/Screenshot_20221219_100138.png) | ![Alt text](/imgs/Screenshot 2023-04-29 121824.png) |
 
