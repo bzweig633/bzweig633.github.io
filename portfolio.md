@@ -11,4 +11,4 @@ permalink: /portfolio/
 
 
 #### _Mapping Medieval Gotland_ 
-[![Mapping Medieval Gotland](/imgs/Screenshot_20221219_100138.png)](https://bzweig633.github.io/mapping-medieval-gotland/)
+[![Mapping Medieval Gotland](/imgs/Screenshot_20221219_100138.png)](https://bzweig633.github.io/Mapping-Medieval-Gotland/)
