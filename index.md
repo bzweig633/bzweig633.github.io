@@ -1,6 +1,6 @@
+## Welcome
 
-# Welcome
-## I will write more on my website later today. Right now it's just an experiment to get familiar with Jekyll/Markdown. 
+## I will write more soon. In the meantime, please check out my complete [About](https://bzweig633.github.io/about/) and [CV](https://bzweig633.github.io/cv/) pages, and my in-progress [Portfolio](https://bzweig633.github.io/portfolio/) page.  
 
 Over the past couple of years I've become more interested in making single-page apps that explore a specific question or issue, especially from a creative-coding or information design perspective.  
 
