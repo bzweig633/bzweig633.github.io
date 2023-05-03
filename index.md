@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Home
+title: Welcome
 ---
-# Welcome. 
 
 ## I will write more soon. In the meantime, please check out my complete [About](https://bzweig633.github.io/about/) and [CV](https://bzweig633.github.io/cv/) pages, and my in-progress [Portfolio](https://bzweig633.github.io/portfolio/) page.  
 
