@@ -6,6 +6,9 @@ permalink: /portfolio/
 
 ### Here are some my projects: 
 
+#### _Paris: 1874 Newtwork Visualization
+[!Paris: 1874 Network Visualization]
+
 #### _What Does Collecting Look Like?: A data visualization of the National Gallery of Art’s recent acquisitions_ using the [Vikus Viewer](https://github.com/cpietsch/vikus-viewer) 
 [![What does collecting look like?](/imgs/Screenshot 2023-04-29 121824.png)](https://bzweig633.github.io/vikus-nga/)  
 
