@@ -16,7 +16,13 @@ Areas of Specialization: Late Antique, Early Christian and Byzantine Art and Arc
 
 ### Current Professional Appointment:
 
-Digital Projects Coordinator, National Gallery of Art, Washington DC, August 2018 - Present:
+Project Manager, Columbia University Libraries, Columbia University New York, November 2023 - Present:
+
+* Manages and oversee development of large-scale digital infrastructural projects at the library.
+
+### Previous Professional Appointment:
+
+Digital Projects Coordinator, National Gallery of Art, Washington DC, August 2018 - September 2023:
 	
 * Led collection tagging initiative to add descriptive tags for 100,000 artworks using machine vision technology.
 * Guided museum adoption of CC0 for public domain images and data as part of revised open access policy and digital strategy.
@@ -24,8 +30,6 @@ Digital Projects Coordinator, National Gallery of Art, Washington DC, August 201
 * Initiated the museum’s first Open Data Program and GitHub repository.
 * Created and led interdepartmental Open Access/Open Data working group.
 * Primary liaison on open access projects between several departments, including imaging services, digital experience, registrar’s office, gallery archives, and library.
-
-### Previous Professional Appointment:
 
 Robert H. Smith Postdoctoral Research Associate for Digital Art History, Center for Advanced Study in the Visual Arts (CASVA), National Gallery of Art, Washington DC, August 2014 – August 2018 
 
@@ -70,7 +74,9 @@ Goethe Institut Stipendium für Sprach Studieren, Goethe Institut, Berlin, 2005.
 
 ### Publications:
 
-“The Hanging of Judas in Chicago and the End of An Image,” Source:  Notes in the History of Art (Forthcoming 2023).
+“Hyperformalism: Notes on Machine Vision and Art Historical Method,” Critical Digital Art History, ed. Anna Dahlgren and Amanda Wasielewski (Intellect Books, 2024), 146-166. 
+
+“The Hanging of Judas in Chicago and the End of An Image,” Source: Notes in the History of Art, Vol. 42, No. 3 (2023), 179-188
 
 “Opening Up: The National Gallery of Art’s Wikimedia Project,” Journal for Digital Media Management, Vol. 10, No. 4 (Summer 2022), 358-367.
 
@@ -92,9 +98,7 @@ Goethe Institut Stipendium für Sprach Studieren, Goethe Institut, Berlin, 2005.
 
 #### Articles in Progress:
 
-“AI Art as Ekphrasis, and the Limits of the Generative Imagination,” experimental essay exploring the confluence between generative AI art and the ancient rhetorical art of ekphrasis using authored AI prompts, International Journal for Digital Art History, 2023. 
-
-“Hyperformalism: Notes on Machine Vision and Art Historical Method,” Critical Digital Art History, ed. Anna Dahlgren and Amanda Wasielewski (submitted) (Bristol: Intellect Books, expected 2024).   
+“AI Art as Ekphrasis, and the Limits of the Generative Imagination,” experimental essay exploring the confluence between generative AI art and the ancient rhetorical art of ekphrasis using authored AI prompts, International Journal for Digital Art History, 2025. 
 
 “An Unpublished Illuminated Manuscript of William of Auvergne’s De moribus (British Library MS. Yates Thompson 44) and its relationship to the Virtues and Vices Cycle at Notre-Dame, Paris.” (draft completed)
 
@@ -117,6 +121,10 @@ Representing Suicide in Medieval Art: the first dedicated study to the iconograp
 [What Does Collecting Look Like?](https://bzweig633.github.io/vikus-nga/): A data visualization of the National Gallery of Art’s recent acquisitions.
 
 ### Talks, Conference Presentations, and Invited Lectures:
+
+Organizer and speaker, "What is the place of open knowledge communities in the development and use of AI?," Columbia University Libraries, Open Access Week Panel, October 2024.
+
+Invited particpant, "Computer Vision and Art History Today," Barnes Foundation, Philadelphia, June 2024.
 
 Presentation to Wikidata and LD4 Community Group on National Gallery of Art’s Wikimedia project, April 2023.
 
