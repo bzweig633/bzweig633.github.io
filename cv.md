@@ -184,8 +184,14 @@ Representations of suicide in ancient and medieval art, Romanesque and Gothic ma
 
 ### Teaching and Education Experience:
 
-Visiting Assistant Professor, Pratt Institute, School of Information:
-* “Advanced Projects in Visualization,” Fall 2023
+Visiting Assistant Professor, Pratt Institute, School of Information, 2023 - Present:
+* "Audience Research and Evaluation," Spring 2025
+* “Advanced Projects in Visualization,” Fall 2023, 2024
+* "Information Visulization," Fall 2024
+
+Adjunct Assistant Professor, Baruch College, City University of New York, 2024 - Present:
+* "Future of New York City," Macaulays undergraduate honors seminar, Spring 2025
+* "People of New York," Macaulays undergraduate honors seminar, Spring 2024
 
 Adjunct Professor, SUNY Westchester:
 * “Art of the Modern World,” Fall 2023
