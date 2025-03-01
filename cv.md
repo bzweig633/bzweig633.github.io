@@ -16,9 +16,9 @@ Areas of Specialization: Late Antique, Early Christian and Byzantine Art and Arc
 
 ### Current Professional Appointment:
 
-Project Manager, Columbia University Libraries, Columbia University New York, November 2023 - Present:
+Digital Projects Manager, Columbia University Libraries, Columbia University New York, November 2023 - Present:
 
-* Manages and oversee development of large-scale digital infrastructural projects at the library.
+* Manages and oversees development and implementation of large-scale digital infrastructural projects at the library.
 
 ### Previous Professional Appointment:
 
