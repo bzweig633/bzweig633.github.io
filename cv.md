@@ -227,7 +227,9 @@ Paper and Session Reviewer, Association of Computers and the Humanities 2021
 
 Paper and Session Review, DH Unbound 2022
 
-Manuscript Reviewer, International Journal of Digital Art History	
+Manuscript Reviewer, *International Journal of Digital Art History*
+
+Manuscript Reviewer, *Visual Resources*
 
 Editor-at-large, Digital Humanities Now
 
