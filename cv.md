@@ -74,7 +74,7 @@ Goethe Institut Stipendium für Sprach Studieren, Goethe Institut, Berlin, 2005.
 
 ### Publications:
 
-"'This Prompt Contains Prohibited Words': Language, Ekphrasis, and the Limits of the Generative Imagination," International Journal for Digital Art History," (2025), [Available here](https://doi.org/10.11588/dahj.2025.10.101535)
+"'This Prompt Contains Prohibited Words': Language, Ekphrasis, and the Limits of the Generative Imagination," International Journal for Digital Art History," (2025), [Available here](https://doi.org/10.11588/dahj.2025.10.101535).
 
 “Hyperformalism: Notes on Machine Vision and Art Historical Method,” Critical Digital Art History, ed. Anna Dahlgren and Amanda Wasielewski (Intellect Books, 2024), 146-166. 
 
