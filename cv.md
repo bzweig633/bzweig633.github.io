@@ -74,6 +74,8 @@ Goethe Institut Stipendium für Sprach Studieren, Goethe Institut, Berlin, 2005.
 
 ### Publications:
 
+"'This Prompt Contains Prohibited Words': Language, Ekphrasis, and the Limits of the Generative Imagination," International Journal for Digital Art History," (2025), [Available here](https://doi.org/10.11588/dahj.2025.10.101535)
+
 “Hyperformalism: Notes on Machine Vision and Art Historical Method,” Critical Digital Art History, ed. Anna Dahlgren and Amanda Wasielewski (Intellect Books, 2024), 146-166. 
 
 “The Hanging of Judas in Chicago and the End of An Image,” Source: Notes in the History of Art, Vol. 42, No. 3 (2023), 179-188
@@ -121,6 +123,12 @@ Representing Suicide in Medieval Art: the first dedicated study to the iconograp
 [What Does Collecting Look Like?](https://bzweig633.github.io/vikus-nga/): A data visualization of the National Gallery of Art’s recent acquisitions.
 
 ### Talks, Conference Presentations, and Invited Lectures:
+
+"Borderlands to Borderless: Using Historical Networks to Reconsider the History of Medieval Nordic Art," NORDIK, Helsinki, Finland, October 2025.
+
+"Looking with Weirdness: Computer Vision as a New Technique of the Observer," VSAC, Wiesbaden, Germany, August 2025. 
+
+Panel Organizer and Speaker, "Rethinking the Ethics of “Open” in the Shadow of AI," Digital Humanities Conference, Liston, Portugal, July 2025.
 
 Organizer and speaker, "What is the place of open knowledge communities in the development and use of AI?," Columbia University Libraries, Open Access Week Panel, October 2024.
 
@@ -187,7 +195,7 @@ Representations of suicide in ancient and medieval art, Romanesque and Gothic ma
 Visiting Assistant Professor, Pratt Institute, School of Information, 2023 - Present:
 * "Audience Research and Evaluation," Spring 2025
 * “Advanced Projects in Visualization,” Fall 2023, 2024
-* "Information Visualization," Fall 2024
+* "Information Visualization," Fall 2024, 2025
 
 Adjunct Assistant Professor, Baruch College, City University of New York, 2024 - Present:
 * "Future of New York City," Macaulays undergraduate honors seminar, Spring 2025
