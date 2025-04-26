@@ -100,8 +100,6 @@ Goethe Institut Stipendium für Sprach Studieren, Goethe Institut, Berlin, 2005.
 
 #### Articles in Progress:
 
-“AI Art as Ekphrasis, and the Limits of the Generative Imagination,” experimental essay exploring the confluence between generative AI art and the ancient rhetorical art of ekphrasis using authored AI prompts, International Journal for Digital Art History, 2025. 
-
 “An Unpublished Illuminated Manuscript of William of Auvergne’s De moribus (British Library MS. Yates Thompson 44) and its relationship to the Virtues and Vices Cycle at Notre-Dame, Paris.” (draft completed)
 
 #### Book Project
